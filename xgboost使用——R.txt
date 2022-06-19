@@ -1,0 +1,117 @@
+一、样例学习  xgboost使用——R
+library(xgboost)
+library(caret)
+data(iris)
+trainlist <- createDataPartition(iris$Species,p = 0.8,list = FALSE)
+trainset <- iris[trainlist,]
+testset <- iris[-trainlist,]
+
+#1.数据格式转换 Matrix
+library(Matrix)
+###训练集的数据预处理
+#1.1自变量转换为matrix矩阵
+head(trainset)
+traindata1 <-data.matrix(trainset[,c(1:4)]) 
+#1.2处理为稀疏矩阵
+traindata2 <- Matrix(traindata1,sparse=T) 
+#1.3处理因变量 转换为数值
+train_y <- as.numeric(trainset[,c5])-1
+#1.4 自变量、因变量拼接为list
+traindata <- list(data=traindata2,label=train_y)
+#1.5构建模型需要的xgb.DMatrix
+dtrain <- xgb.DMatrix(data = traindata$data, label = traindata$label)
+
+#2.测试集同以上操作
+testset1 <-data.matrix(testset[,c(1:4)])
+testset2 <- Matrix(testset1,sparse=T)
+test_y <- as.numeric(testset[,5])-1
+testset <-list(data=testset2,label=test_y)
+dtest <- xgb.DMatrix(data = testset$data, label=testset$label)
+
+#3.模型构建 objective里有二分类logitic回归 help查看各参数解释
+model_xgb <- xgboost(data = dtrain,booster='gbtree',max_depth=6,eta=0.5,objective='multi:softmax',num_class=3,nround=25)
+
+#4.模型预测
+pre <- predict(model_xgb,newdata=dtest)
+
+#5.模型评估 注意两个因子型的变量
+library(caret)
+xgb.cf <- caret::confusionMatrix(as.factor(pre),as.factor(test_y))
+xgb.cf
+
+二、实际演练
+#1.数据加载
+查看当前路径
+getwd()
+#设置路径
+setwd("D:/Alport_syndrome/Group5_clinvar_gnomAD_536T_1877F/data2_after_vep/transcript_COL4A5-201/step5_ensemble_vep_pathogenic_state_TOPMED_AF_conserve_state_MAF")
+
+#导入数据
+col4a5snv=read.table("3vep.tsv",header=TRUE,sep = "\t")
+#加载所需要的包
+library(xgboost)
+library(caret)
+
+#划分训练集（80%）、测试集（20%）
+trainlist <- createDataPartition(col4a5snv$Pathogenic,p = 0.8,list = FALSE)
+trainset <- col4a5snv[trainlist,]
+testset <- col4a5snv[-trainlist,]
+#加载包
+library(Matrix)
+
+#2.数据预处理
+#对训练集的自变量和因变量进行处理
+traindata1 <-data.matrix(trainset[,c(1:65)]) #不太明白分类变量是否也转换为矩阵
+traindata2 <- Matrix(traindata1,sparse=T) 
+train_y <- as.numeric(trainset[,c(66)]) #与样例不同的是66要用（）括起来.不能再减一，因为本来因变量已是0和1
+traindata <- list(data=traindata2,label=train_y)
+dtrain <- xgb.DMatrix(data = traindata$data, label = traindata$label)
+#对测试集的自变量和因变量进行处理
+testset1 <-data.matrix(testset[,c(1:65)])
+testset2 <- Matrix(testset1,sparse=T)
+test_y <- as.numeric(testset[,c(66)])
+testdata <-list(data=testset2,label=test_y) #或许testdata更好，就不会替换开始的testset文件
+dtest <- xgb.DMatrix(data = testdata$data, label=testdata$label)
+
+#3.训练模型
+#模型训练
+xgb <- xgboost(data = dtrain,max_depth=6, eta=0.5,  
+  objective='binary:logistic', nround=25)  #label要是0和1
+
+#重要重要性排序 
+importance <- xgb.importance(traindata2@Dimnames[[2]], model = xgb)  
+head(importance)
+xgb.ggplot.importance(importance) #Cluster什么意思
+
+#4.测试集效果检验
+#混淆矩阵
+pre_xgb = round(predict(xgb,newdata = dtest))
+table(test_y,pre_xgb,dnn=c("true","pre"))
+
+#ROC曲线
+install.packages("pROC")
+library(pROC)
+xgboost_roc <- roc(test_y,as.numeric(pre_xgb))
+plot(xgboost_roc, print.auc=TRUE, auc.polygon=TRUE, 
+  grid=c(0.1, 0.2),grid.col=c("green", "red"), 
+  max.auc.polygon=TRUE,auc.polygon.col="skyblue", 
+  print.thres=TRUE,main='ROC curve')
+
+#也计算一下训练集的AUC
+pre_xgb = round(predict(xgb,newdata = dtrain)) #如果报错，重新加载包、重新生成dtrain
+table(train_y,pre_xgb,dnn=c("true","pre"))
+xgboost_roc <- roc(train_y,as.numeric(pre_xgb))
+plot(xgboost_roc, print.auc=TRUE, auc.polygon=TRUE, 
+  grid=c(0.1, 0.2),grid.col=c("green", "red"), 
+  max.auc.polygon=TRUE,auc.polygon.col="skyblue", 
+  print.thres=TRUE,main='ROC curve')
+
+
+
+
+
+pre <- predict(model_xgb,newdata=dtest)
+
+library(caret)
+xgb.cf <- caret::confusionMatrix(as.factor(pre),as.factor(test_y))
+xgb.cf
