@@ -53,7 +53,7 @@ library(xgboost)
 library(caret)
 
 #划分训练集（80%）、测试集（20%）
-trainlist <- createDataPartition(col4a5snv$Pathogenic,p = 0.8,list = FALSE)
+trainlist <- createDataPartition(col4a5snv$Pathogenicity,p = 0.8,list = FALSE)
 trainset <- col4a5snv[trainlist,]
 testset <- col4a5snv[-trainlist,]
 #加载包
