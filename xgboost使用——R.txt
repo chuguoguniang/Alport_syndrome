@@ -47,13 +47,14 @@ getwd()
 setwd("D:/Alport_syndrome/Group5_clinvar_gnomAD_536T_1877F/data2_after_vep/transcript_COL4A5-201/step5_ensemble_vep_pathogenic_state_TOPMED_AF_conserve_state_MAF")
 
 #导入数据
-col4a5snv=read.table("3vep.tsv",header=TRUE,sep = "\t")
+col4a5snv=read.table("13vep.tsv",header=TRUE,sep = "\t")
 #加载所需要的包
 library(xgboost)
 library(caret)
 
-#划分训练集（80%）、测试集（20%）
-trainlist <- createDataPartition(col4a5snv$Pathogenicity,p = 0.8,list = FALSE)
+#划分训练集（60%）、测试集（40%）
+set.seed(1) #设定随机数种子，便于重复
+trainlist <- createDataPartition(col4a5snv$Pathogenicity,p = 0.6,list = FALSE)
 trainset <- col4a5snv[trainlist,]
 testset <- col4a5snv[-trainlist,]
 #加载包
@@ -61,15 +62,15 @@ library(Matrix)
 
 #2.数据预处理
 #对训练集的自变量和因变量进行处理
-traindata1 <-data.matrix(trainset[,c(1:65)]) #不太明白分类变量是否也转换为矩阵
+traindata1 <-data.matrix(trainset[,c(1:17)]) #不太明白分类变量是否也转换为矩阵
 traindata2 <- Matrix(traindata1,sparse=T) 
-train_y <- as.numeric(trainset[,c(66)]) #与样例不同的是66要用（）括起来.不能再减一，因为本来因变量已是0和1
+train_y <- as.numeric(trainset[,c(18)]) #与样例不同的是66要用（）括起来.不能再减一，因为本来因变量已是0和1
 traindata <- list(data=traindata2,label=train_y)
 dtrain <- xgb.DMatrix(data = traindata$data, label = traindata$label)
 #对测试集的自变量和因变量进行处理
-testset1 <-data.matrix(testset[,c(1:65)])
+testset1 <-data.matrix(testset[,c(1:17)])
 testset2 <- Matrix(testset1,sparse=T)
-test_y <- as.numeric(testset[,c(66)])
+test_y <- as.numeric(testset[,c(18)])
 testdata <-list(data=testset2,label=test_y) #或许testdata更好，就不会替换开始的testset文件
 dtest <- xgb.DMatrix(data = testdata$data, label=testdata$label)
 
@@ -110,8 +111,3 @@ plot(xgboost_roc, print.auc=TRUE, auc.polygon=TRUE,
 
 
 
-pre <- predict(model_xgb,newdata=dtest)
-
-library(caret)
-xgb.cf <- caret::confusionMatrix(as.factor(pre),as.factor(test_y))
-xgb.cf
