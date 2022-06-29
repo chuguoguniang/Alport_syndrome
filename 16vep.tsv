@@ -1,0 +1,1254 @@
+EXON	cDNA_position	CDS_position	Protein_position	Amino_acids	Codons	SIFT	PolyPhen	AF	topmed_AF	jianbiyamu_conserve	lingzhangzongmu_conserve	beifangshoulei_conserve	lingzhang_conserve	renke_conserve	xiabixiamu_conserve	Pathogenicity
+1/53	217	-	-	-	-	 	 	 	3.40E-05	-	-	-	-	-	-	No
+1/53	219	-	-	-	-	 	 	 	 	-	-	-	-	-	-	No
+1/53	225	-	-	-	-	 	 	 	 	-	-	-	-	-	-	No
+1/53	226	-	-	-	-	 	 	 	1.51E-05	-	-	-	-	-	-	No
+1/53	243	-	-	-	-	 	 	 	4.16E-05	-	-	-	-	-	-	No
+1/53	248	-	-	-	-	 	 	 	1.89E-05	-	-	-	-	-	-	No
+1/53	252	-	-	-	-	 	 	 	 	-	-	-	-	-	-	No
+1/53	256	-	-	-	-	 	 	 	1.13E-05	-	-	-	-	-	-	No
+1/53	265	-	-	-	-	 	 	 	1.13E-05	-	-	-	-	-	-	No
+1/53	273	-	-	-	-	 	 	 	0.000196456	-	-	-	-	-	-	No
+1/53	276	-	-	-	-	 	 	 	0.000173788	-	-	-	-	-	-	No
+1/53	278	-	-	-	-	 	 	 	1.51E-05	-	-	-	-	-	-	No
+1/53	289	1	1	M/V	Atg/Gtg	0	0.455	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+1/53	295	7	3	L/V	Ctg/Gtg	0.16	0.001	 	7.56E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+1/53	297	9	3	L	ctG/ctA	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+1/53	319	31	11	G/S	Ggc/Agc	0.82	0.342	 	2.27E-05	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+1/53	320	32	11	G/V	gGc/gTc	0.35	0.362	 	7.18E-05	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+1/53	321	33	11	G	ggC/ggT	 	 	 	7.18E-05	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+1/53	328	40	14	L/V	Tta/Gta	0.55	0.015	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+1/53	336	48	16	A	gcC/gcG	 	 	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+1/53	339	51	17	L	ctG/ctT	 	 	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+1/53	345	57	19	L	ctT/ctC	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+1/53	351	63	21	G	ggG/ggA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+1/53	354	66	22	Q	caG/caA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+1/53	364	76	26	A/T	Gct/Act	0.22	0.981	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+1/53	369	81	27	A	gcG/gcA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	370	82	28	A/T	Gct/Act	0.11	0.093	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+2/53	370	82	28	A/S	Gct/Tct	0.19	0.165	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+2/53	374	86	29	C/F	tGc/tTc	0.01	0.991	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	377	89	30	Y/C	tAt/tGt	0.18	0.394	0.0008	6.80E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+2/53	378	90	30	Y	taT/taC	 	 	 	4.91E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+2/53	378	90	30	Y/*	taT/taG	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+2/53	379	91	31	G/W	Ggg/Tgg	0.01	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+2/53	396	108	36	S	tcA/tcG	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	399	111	37	K	aaG/aaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	400	112	38	C/G	Tgt/Ggt	0	0.943	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	412	124	42	G/S	Ggc/Agc	0.17	0.005	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	413	125	42	G/A	gGc/gCc	0.04	0.003	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	416	128	43	I/T	aTa/aCa	0.17	0.023	 	7.56E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+2/53	420	132	44	K/N	aaA/aaC	0.01	0.219	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	420	132	44	K	aaA/aaG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	424	136	46	E/K	Gaa/Aaa	0.54	0.115	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+2/53	424	136	46	E/*	Gaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+2/53	425	137	46	E/G	gAa/gGa	0.22	0.277	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	434	146	49	E/G	gAg/gGg	0.03	0.747	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	435	147	49	E/D	gaG/gaT	0.21	0.026	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	439	151	51	G/R	Ggg/Agg	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+3/53	447	159	53	P	ccA/ccG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	449	161	54	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+3/53	449	161	54	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+3/53	452	164	55	L/W	tTg/tGg	0.02	0.938	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	460	172	58	H/Y	Cac/Tac	1	0.359	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	470	182	61	L/*	tTg/tAg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+3/53	473	185	62	P/L	cCt/cTt	0.01	0.998	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	483	195	65	P	ccA/ccG	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	500	212	71	P/L	cCg/cTg	0.29	0.374	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	501	213	71	P	ccG/ccA	 	 	0.0003	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	504	216	72	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+3/53	508	220	74	R/W	Cgg/Tgg	0.02	0.001	 	3.02E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+3/53	509	221	74	R/Q	cGg/cAg	0.68	0.001	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+3/53	509	221	74	R/L	cGg/cTg	0.32	0.001	 	1.51E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+3/53	516	228	76	Q/H	caA/caT	0.12	0.568	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+3/53	519	231	77	K	aaG/aaA	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	522	234	78	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	524	236	79	D/V	gAt/gTt	0.04	0.714	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	525	237	79	D	gaT/gaC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	537	249	83	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	543	255	85	P	ccA/ccG	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	544	256	86	P/S	Cca/Tca	0.12	0.003	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+4/53	550	262	88	P/S	Cca/Tca	0.72	0.422	 	6.04E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	551	263	88	P/L	cCa/cTa	0.51	0.026	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	559	271	91	I/V	Atc/Gtc	0.45	0.199	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+4/53	561	273	91	I	atC/atA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+5/53	566	278	93	G/V	gGt/gTt	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	567	279	93	G	ggT/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+5/53	568	280	94	P/T	Cct/Act	0.22	0.154	 	1.13E-05	not_conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+5/53	569	281	94	P/L	cCt/cTt	0.21	0.009	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+5/53	574	286	96	G/R	Gga/Aga	0	0.986	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	575	287	96	G/V	gGa/gTa	0	0.95	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	583	295	99	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	591	303	101	P	ccA/ccG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+5/53	596	308	103	T/I	aCa/aTa	0.29	0.948	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+5/53	597	309	103	T	acA/acC	 	 	 	4.53E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+5/53	602	314	105	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	602	314	105	G/A	gGt/gCt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+5/53	607	319	107	P/S	Cct/Tct	0.01	0.67	0.0003	6.04E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	624	336	112	H	caC/caT	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	626	338	113	D/G	gAt/gGt	0.06	0.783	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	632	344	115	A/V	gCc/gTc	0.11	0.382	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	636	348	116	P	ccA/ccG	 	 	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	649	361	121	I/V	Att/Gtt	0.06	0.203	 	2.64E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+6/53	654	366	122	P	ccC/ccT	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	655	367	123	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+6/53	655	367	123	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+6/53	662	374	125	N/S	aAt/aGt	0.08	0.737	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+6/53	672	384	128	K/N	aaG/aaC	0.03	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	673	385	129	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	679	391	131	R/C	Cgt/Tgt	0.01	0.781	 	0.000120896	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	680	392	131	R/H	cGt/cAt	0.08	0.014	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	682	394	132	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	683	395	132	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	690	402	134	P	ccA/ccT	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	692	404	135	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	693	405	135	G	ggC/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	694	406	136	S/G	Agt/Ggt	0.42	0.006	0.0011	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	699	411	137	P	ccC/ccT	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	700	412	138	G/S	Ggt/Agt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	700	412	138	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	701	413	138	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	709	421	141	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+7/53	721	433	145	P/S	Cct/Tct	0.73	0.382	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	722	434	145	P/L	cCt/cTt	0.36	0.11	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	723	435	145	P	ccT/ccC	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+7/53	724	436	146	P/T	Cca/Aca	0.01	0.934	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+8/53	727	439	147	G/R	Gga/Aga	0	0.892	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+8/53	727	439	147	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+8/53	731	443	148	P/L	cCc/cTc	0.74	0.347	 	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+8/53	732	444	148	P	ccC/ccT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+8/53	733	445	149	P/A	Cct/Gct	0.09	0.996	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+8/53	741	453	151	I	atC/atT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+8/53	746	458	153	G/V	gGt/gTt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+8/53	748	460	154	M/V	Atg/Gtg	0.41	0.019	 	1.51E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+8/53	750	462	154	M/I	atG/atA	0.48	0.233	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+8/53	752	464	155	K/T	aAg/aCg	0	0.994	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	754	466	156	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	755	467	156	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	764	476	159	G/D	gGt/gAt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	767	479	160	S/N	aGt/aAt	0.42	0.366	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	769	481	161	I/V	Ata/Gta	0.47	0.011	 	2.27E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+9/53	776	488	163	M/T	aTg/aCg	0.4	0	 	0.00011334	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+9/53	782	494	165	S/*	tCa/tAa	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+9/53	782	494	165	S/*	tCa/tGa	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+9/53	799	511	171	G/S	Ggt/Agt	0.01	0.49	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+9/53	799	511	171	G/R	Ggt/Cgt	0	0.974	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+9/53	816	528	176	P	ccA/ccG	 	 	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	818	530	177	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+9/53	820	532	178	P/S	Cct/Tct	0.76	0.055	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	823	535	179	P/A	Cct/Gct	0.03	0.996	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	824	536	179	P/L	cCt/cTt	0.04	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+9/53	827	539	180	G/E	gGa/gAa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+9/53	834	546	182	Q	caA/caG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	835	547	183	G/S	Ggc/Agc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	837	549	183	G	ggC/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	840	552	184	L	ctA/ctT	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+10/53	842	554	185	P/R	cCt/cGt	0.06	0.134	 	7.56E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+10/53	843	555	185	P	ccT/ccC	 	 	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+10/53	845	557	186	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	847	559	187	P/T	Ccc/Acc	0.59	0.178	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	856	568	190	I/V	Ata/Gta	0.53	0	 	0.000109562	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+10/53	858	570	190	I	atA/atT	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+10/53	862	574	192	G/R	Ggg/Agg	0	0.928	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	862	574	192	G/W	Ggg/Tgg	0	0.993	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	863	575	192	G/E	gGg/gAg	0	0.768	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	864	576	192	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	866	578	193	P/L	cCa/cTa	0.18	0.998	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	868	580	194	I/V	Att/Gtt	0.67	0	0.0029	0.000128452	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+10/53	869	581	194	I/T	aTt/aCt	0.62	0.015	 	1.13E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+10/53	872	584	195	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	872	584	195	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	875	587	196	P/L	cCc/cTc	0.27	0.447	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	877	589	197	P/S	Cca/Tca	0.21	0.31	 	1.89E-05	not_conserve	conserve	conserve	not_conserve	conserve	not_conserve	No
+10/53	888	600	200	P	ccA/ccC	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+10/53	890	602	201	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+10/53	897	609	203	M/I	atG/atT	0.2	0.003	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+11/53	899	611	204	G/D	gGc/gAc	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+11/53	900	612	204	G	ggC/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+11/53	907	619	207	G/S	Ggt/Agt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+11/53	907	619	207	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+11/53	910	622	208	P/S	Cca/Tca	0.42	0.22	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+11/53	925	637	213	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+11/53	926	638	213	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+11/53	927	639	213	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+11/53	933	645	215	K	aaG/aaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+12/53	934	646	216	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	935	647	216	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	943	655	219	G/S	Ggc/Agc	0.01	0.941	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+12/53	947	659	220	L/*	tTa/tAa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	947	659	220	L/*	tTa/tGa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	953	665	222	F/C	tTc/tGc	0.01	0.997	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	958	670	224	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	959	671	224	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	962	674	225	P/L	cCc/cTc	0.09	0.714	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	965	677	226	K/T	aAa/aCa	0.03	0.996	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+12/53	967	679	227	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+12/53	970	682	228	E/K	Gaa/Aaa	0.18	0.068	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	977	689	230	G/D	gGt/gAt	0.05	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	977	689	230	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	979	691	231	E/K	Gag/Aag	0.15	0.442	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	986	698	233	G/A	gGt/gCt	0.02	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	986	698	233	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	995	707	236	G/D	gGc/gAc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	997	709	237	P/S	Cca/Tca	0.2	0.563	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	999	711	237	P	ccA/ccG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1033	745	249	R/*	Aga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+13/53	1034	746	249	R/I	aGa/aTa	0.21	0.66	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1038	750	250	P	ccA/ccG	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1040	752	251	I/T	aTt/aCt	0.67	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+13/53	1044	756	252	D	gaT/gaC	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1045	757	253	V/I	Gta/Ata	0.63	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1049	761	254	E/G	gAg/gGg	0.39	0.034	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1056	768	256	Q/H	caG/caC	0.13	0.847	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1059	771	257	K	aaA/aaG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1061	773	258	G/E	gGa/gAa	0	1	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+13/53	1067	779	260	Q/R	cAg/cGg	0.46	0.013	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1070	782	261	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1075	787	263	P/S	Cct/Tct	0.2	0.859	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1081	793	265	D/N	Gac/Aac	0.32	0.3	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1084	796	266	R/G	Cga/Gga	0.15	0.119	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1084	796	266	R/*	Cga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1087	799	267	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1087	799	267	G/R	Ggg/Cgg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1088	800	267	G/V	gGg/gTg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1096	808	270	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1106	818	273	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+14/53	1111	823	275	R/C	Cgt/Tgt	0.17	0	 	4.53E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1112	824	275	R/H	cGt/cAt	0.47	0	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1117	829	277	P/S	Cct/Tct	0.56	0.889	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+14/53	1121	833	278	P/L	cCa/cTa	0.15	0.785	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+15/53	1123	835	279	G/R	Ggt/Cgt	0	1	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1132	844	282	G/S	Ggt/Agt	0.07	0.961	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1133	845	282	G/D	gGt/gAt	0.01	0.981	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1134	846	282	G	ggT/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1139	851	284	E/V	gAg/gTg	0.5	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1146	858	286	G	ggT/ggC	 	 	0.0005	9.82E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1146	858	286	G	ggT/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1149	861	287	E	gaG/gaA	 	 	0.0003	9.07E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1152	864	288	K	aaG/aaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1152	864	288	K/N	aaG/aaC	0.01	0.997	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1153	865	289	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+15/53	1154	866	289	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+15/53	1160	872	291	Q/P	cAa/cCa	1	0	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1162	874	292	G/R	Gga/Aga	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+15/53	1162	874	292	G/R	Gga/Cga	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+15/53	1163	875	292	G/E	gGa/gAa	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+15/53	1168	880	294	P/S	Cca/Tca	0.1	0.169	 	0.000109562	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1171	883	295	G/S	Ggc/Agc	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+15/53	1172	884	295	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+16/53	1187	899	300	P/L	cCa/cTa	0	0.382	 	7.18E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+16/53	1190	902	301	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+16/53	1191	903	301	G	ggC/ggA	 	 	 	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+16/53	1195	907	303	D/H	Gat/Cat	0.03	0.999	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+16/53	1197	909	303	D	gaT/gaC	 	 	0.0013	0.00229325	conserve	conserve	conserve	conserve	conserve	conserve	No
+16/53	1201	913	305	E/*	Gaa/Taa	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+16/53	1206	918	306	N	aaT/aaC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+16/53	1207	919	307	G/S	Ggc/Agc	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+16/53	1208	920	307	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+16/53	1217	929	310	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+16/53	1217	929	310	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1225	937	313	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1226	938	313	G/V	gGt/gTt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1230	942	314	L	ttG/ttA	 	 	 	7.56E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+17/53	1233	945	315	P	ccT/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1234	946	316	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1241	953	318	P/R	cCt/cGt	0.26	0.001	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1244	956	319	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1260	972	324	P	ccC/ccT	 	 	 	1.51E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+17/53	1261	973	325	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1261	973	325	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1262	974	325	G/E	gGa/gAa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1268	980	327	D/G	gAt/gGt	0.37	0	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1268	980	327	D/V	gAt/gTt	0.32	0	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1269	981	327	D	gaT/gaC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1270	982	328	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1271	983	328	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1271	983	328	G/V	gGt/gTt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+17/53	1275	987	329	E	gaA/gaG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+17/53	1278	990	330	K/N	aaG/aaT	0.04	0.994	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1281	993	331	G	ggC/ggA	 	 	 	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1282	994	332	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+18/53	1284	996	332	Q	caA/caG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1287	999	333	K	aaA/aaG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1289	1001	334	G/D	gGt/gAt	0	0.461	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+18/53	1289	1001	334	G/V	gGt/gTt	0	0.563	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+18/53	1293	1005	335	D	gaC/gaT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1298	1010	337	G/V	gGc/gTc	0.01	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+18/53	1312	1024	342	P/S	Cct/Tct	0.02	0.104	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1314	1026	342	P	ccT/ccC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1317	1029	343	G	ggA/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+18/53	1318	1030	344	L/V	Ctt/Gtt	0.51	0.003	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1323	1035	345	V	gtA/gtC	 	 	0.0003	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1328	1040	347	P/L	cCt/cTt	0.44	0.217	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1331	1043	348	R/K	aGa/aAa	0.94	0	 	6.80E-05	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+19/53	1335	1047	349	P	ccT/ccC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1341	1053	351	T	acT/acC	 	 	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+19/53	1345	1057	353	I/V	Ata/Gta	0.54	0	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+19/53	1355	1067	356	G/A	gGa/gCa	0.03	0.997	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1357	1069	357	E/K	Gaa/Aaa	0.15	0.022	 	1.51E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+19/53	1360	1072	358	K/E	Aaa/Gaa	0.02	0.99	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1363	1075	359	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1369	1081	361	I/V	Att/Gtt	0.42	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1374	1086	362	G	ggG/ggA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1374	1086	362	G	ggG/ggT	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1378	1090	364	P/S	Cct/Tct	0.04	0.558	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1380	1092	364	P	ccT/ccC	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1381	1093	365	G/R	Ggg/Agg	0	0.593	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1382	1094	365	G/E	gGg/gAg	0	0.979	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1383	1095	365	G	ggG/ggC	 	 	0.1505	0.122619003	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1383	1095	365	G	ggG/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1391	1103	368	G/E	gGa/gAa	0	0.99	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	Yes
+19/53	1399	1111	371	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1399	1111	371	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1399	1111	371	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1405	1117	373	R/*	Cga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+19/53	1406	1118	373	R/Q	cGa/cAa	0.44	0.007	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1408	1120	374	G/R	Gga/Aga	0	1	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	Yes
+19/53	1416	1128	376	P	ccT/ccC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1417	1129	377	G/R	Gga/Aga	0	1	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+19/53	1424	1136	379	Q/P	cAg/cCg	0.59	0	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+19/53	1426	1138	380	G/R	Ggt/Cgt	0	1	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+19/53	1435	1147	383	G/R	Ggc/Cgc	0	0.992	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+19/53	1443	1155	385	P	ccT/ccG	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+20/53	1471	1183	395	P/S	Cct/Tct	0.58	0.791	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1474	1186	396	P/A	Cct/Gct	0.41	0.269	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1474	1186	396	P/S	Cct/Tct	0.35	0.082	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1475	1187	396	P/L	cCt/cTt	0.14	0.082	0.0013	0.000555367	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1478	1190	397	G/V	gGc/gTc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1486	1198	400	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1487	1199	400	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1503	1215	405	R/S	agG/agT	0.2	0.127	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1505	1217	406	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1505	1217	406	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1513	1225	409	G/S	Ggt/Agt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1514	1226	409	G/D	gGt/gAt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1514	1226	409	G/A	gGt/gCt	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1514	1226	409	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1522	1234	412	G/R	Gga/Aga	0	0.026	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1522	1234	412	G/R	Gga/Cga	0	0.026	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1523	1235	412	G/E	gGa/gAa	0	0.338	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1524	1236	412	G	ggA/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1542	1254	418	I	atT/atC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1546	1258	420	G/R	Gga/Aga	0	0.992	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+20/53	1547	1259	420	G/V	gGa/gTa	0	0.728	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+20/53	1563	1275	425	D	gaC/gaT	 	 	0	0.000139786	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+20/53	1564	1276	426	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1564	1276	426	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1569	1281	427	Q	caG/caA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1572	1284	428	P	ccT/ccC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1574	1286	429	G/E	gGg/gAg	0.02	1	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+20/53	1575	1287	429	G	ggG/ggT	 	 	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+20/53	1577	1289	430	A/D	gCt/gAt	0.56	0.007	0.0024	0.00337376	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1577	1289	430	A/V	gCt/gTt	0.24	0.013	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1581	1293	431	P	ccT/ccC	 	 	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+20/53	1582	1294	432	G/R	Ggg/Agg	0.06	0.95	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1583	1295	432	G/E	gGg/gAg	0.01	0.88	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+20/53	1584	1296	432	G	ggG/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1589	1301	434	P/L	cCa/cTa	0.11	0.003	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1614	1326	442	P	ccT/ccA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1615	1327	443	H/Y	Cac/Tac	1	0	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1617	1329	443	H	caC/caT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1618	1330	444	I/V	Att/Gtt	0.61	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+20/53	1619	1331	444	I/S	aTt/aGt	0.61	0.01	0.1494	0.120480999	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1628	1340	447	S/N	aGt/aAt	0.49	0	 	7.56E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+21/53	1638	1350	450	I/M	atA/atG	0.12	0.001	0.0005	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1642	1354	452	E/K	Gaa/Aaa	0.6	0	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1644	1356	452	E/D	gaA/gaC	0.42	0.022	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1651	1363	455	P/S	Cct/Tct	0.41	0.168	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+21/53	1653	1365	455	P	ccT/ccA	 	 	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+21/53	1653	1365	455	P	ccT/ccC	 	 	 	1.13E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+21/53	1657	1369	457	G/S	Ggc/Agc	0.01	0.346	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+21/53	1658	1370	457	G/D	gGc/gAc	0.02	0.027	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+21/53	1662	1374	458	P	ccC/ccT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1666	1378	460	G/R	Gga/Cga	0	0.928	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1666	1378	460	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1670	1382	461	S/Y	tCt/tAt	1	0.081	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+21/53	1675	1387	463	G/R	Ggt/Cgt	0	0.928	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+21/53	1684	1396	466	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1685	1397	466	G/E	gGa/gAa	0	0.057	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1690	1402	468	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1695	1407	469	G	ggA/ggG	 	 	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+21/53	1699	1411	471	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1702	1414	472	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+21/53	1707	1419	473	V	gtG/gtT	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+21/53	1711	1423	475	G/S	Ggt/Agt	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1715	1427	476	D/A	gAc/gCc	0.09	0.703	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+22/53	1720	1432	478	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+22/53	1721	1433	478	G/A	gGt/gCt	0.09	0.998	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+22/53	1725	1437	479	D	gaC/gaT	 	 	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+22/53	1731	1443	481	C	tgC/tgT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1737	1449	483	N	aaC/aaT	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+22/53	1741	1453	485	I/V	Att/Gtt	0.55	0.35	0.0003	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1748	1460	487	T/S	aCt/aGt	0.92	0.059	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1757	1469	490	S/L	tCa/tTa	0.34	0.003	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1758	1470	490	S	tcA/tcC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1766	1478	493	P/L	cCa/cTa	0	0.714	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1768	1480	494	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1768	1480	494	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1769	1481	494	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1771	1483	495	Q/K	Caa/Aaa	0.39	0.013	 	7.56E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+22/53	1772	1484	495	Q/L	cAa/cTa	0.43	0.034	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+22/53	1773	1485	495	Q	caA/caG	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+22/53	1775	1487	496	P/R	cCt/cGt	0.45	0.011	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1778	1490	497	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1785	1497	499	P	ccA/ccG	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1786	1498	500	G/R	Ggt/Cgt	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+22/53	1791	1503	501	L	ctC/ctA	 	 	 	4.91E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+22/53	1792	1504	502	P/S	Cca/Tca	0.46	0.135	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+22/53	1796	1508	503	G/V	gGt/gTt	0	1	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+22/53	1797	1509	503	G	ggT/ggA	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+22/53	1799	1511	504	P/L	cCt/cTt	0.41	0	 	5.67E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+23/53	1808	1520	507	S/Y	tCt/tAt	0.08	0.748	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+23/53	1813	1525	509	G/R	Ggt/Cgt	0	0.593	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1813	1525	509	G/C	Ggt/Tgt	0.02	0.999	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1818	1530	510	F	ttC/ttT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+23/53	1831	1543	515	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1831	1543	515	G/R	Ggg/Cgg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1834	1546	516	E/Q	Gaa/Caa	0.38	0.086	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+23/53	1837	1549	517	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1847	1559	520	A/V	gCt/gTt	0.13	0.001	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+23/53	1849	1561	521	G/C	Ggt/Tgt	0	0.992	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1850	1562	521	G/D	gGt/gAt	0	0.99	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1858	1570	524	G/C	Ggt/Tgt	0	0.456	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+23/53	1872	1584	528	L	ttA/ttG	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+23/53	1874	1586	529	P/Q	cCa/cAa	0.13	0.33	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1877	1589	530	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1886	1598	533	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1891	1603	535	P/S	Cca/Tca	0.12	0.007	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1895	1607	536	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1900	1612	538	P/S	Cca/Tca	0.74	0.05	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1905	1617	539	G	ggC/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1905	1617	539	G	ggC/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1908	1620	540	F	ttT/ttC	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+24/53	1918	1630	544	K/E	Aaa/Gaa	0.1	0.997	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1921	1633	545	G/S	Ggt/Agt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1923	1635	545	G	ggT/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1928	1640	547	P/L	cCt/cTt	0	0.999	0.0003	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1931	1643	548	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1947	1659	553	F	ttT/ttC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1948	1660	554	P/A	Cca/Gca	0.37	0.487	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1950	1662	554	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1953	1665	555	G	ggA/ggC	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+24/53	1961	1673	558	G/D	gGt/gAt	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1969	1681	561	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	1971	1683	561	G	ggA/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1972	1684	562	E/K	Gag/Aag	0.48	0.033	 	0.000173788	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1974	1686	562	E	gaG/gaA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1975	1687	563	L	Ttg/Ctg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1978	1690	564	G/R	Ggt/Cgt	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+24/53	1978	1690	564	G/C	Ggt/Tgt	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+24/53	1980	1692	564	G	ggT/ggC	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+24/53	1986	1698	566	P	ccT/ccC	 	 	 	8.69E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1994	1706	569	P/L	cCa/cTa	0	0.656	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	1996	1708	570	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	2000	1712	571	L/P	cTt/cCt	0.22	0.021	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	2015	1727	576	G/D	gGc/gAc	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+24/53	2023	1735	579	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	2026	1738	580	Q/*	Cag/Tag	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+24/53	2028	1740	580	Q	caG/caA	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+24/53	2039	1751	584	P/Q	cCa/cAa	0.05	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	2043	1755	585	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	2047	1759	587	P/S	Cct/Tct	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	2054	1766	589	P/L	cCg/cTg	0.44	0.007	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+24/53	2055	1767	589	P	ccG/ccA	 	 	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+24/53	2056	1768	590	K/E	Aaa/Gaa	0.01	0.894	 	6.42E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+24/53	2056	1768	590	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	2059	1771	591	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+24/53	2062	1774	592	E/Q	Gag/Cag	0.21	0.001	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2082	1794	598	F	ttT/ttC	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2085	1797	599	K	aaG/aaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2087	1799	600	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2095	1807	603	G/S	Ggt/Agt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2096	1808	603	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2098	1810	604	P/T	Ccc/Acc	0.15	0.109	0.0003	5.67E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2101	1813	605	P/T	Cct/Act	0.08	0.356	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2106	1818	606	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2107	1819	607	N/D	Aac/Gac	0.97	0	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2114	1826	609	G/A	gGt/gCt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2115	1827	609	G	ggT/ggA	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2116	1828	610	L	Tta/Cta	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2121	1833	611	P	ccA/ccC	 	 	 	3.78E-06	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+25/53	2123	1835	612	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2127	1839	613	L	ctC/ctT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2131	1843	615	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2132	1844	615	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2146	1858	620	M/V	Atg/Gtg	0.12	0	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2149	1861	621	G/S	Ggt/Agt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2150	1862	621	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2151	1863	621	G	ggT/ggA	 	 	0.0003	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2152	1864	622	P/S	Ccc/Tcc	0.35	0.003	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2154	1866	622	P	ccC/ccT	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2159	1871	624	G/D	gGt/gAt	0.04	0.967	 	5.67E-05	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2159	1871	624	G/V	gGt/gTt	0	0.916	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2163	1875	625	F	ttC/ttT	 	 	 	1.13E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+25/53	2164	1876	626	G/S	Ggc/Agc	0.05	0.954	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2165	1877	626	G/V	gGc/gTc	0	0.967	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2177	1889	630	P/L	cCa/cTa	0.43	0.73	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2178	1890	630	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2192	1904	635	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2192	1904	635	G/V	gGc/gTc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2193	1905	635	G	ggC/ggT	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2197	1909	637	Q/K	Caa/Aaa	0.77	0.009	 	4.16E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+25/53	2200	1912	638	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2202	1914	638	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2207	1919	640	A/V	gCa/gTa	0.03	0.033	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2210	1922	641	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2218	1930	644	G/C	Ggc/Tgc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2221	1933	645	Q/K	Cag/Aag	0.92	0.051	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2221	1933	645	Q/*	Cag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+25/53	2223	1935	645	Q	caG/caA	 	 	 	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2228	1940	647	G/E	gGa/gAa	0	1	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+25/53	2228	1940	647	G/V	gGa/gTa	0	1	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+25/53	2230	1942	648	I/V	Ata/Gta	0.78	0	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+25/53	2236	1948	650	G/S	Ggt/Agt	0.01	0.999	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+26/53	2237	1949	650	G/D	gGt/gAt	0	0.999	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+26/53	2248	1960	654	D/Y	Gat/Tat	0	0.804	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+26/53	2255	1967	656	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+26/53	2257	1969	657	Q/K	Cag/Aag	1	0.007	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2258	1970	657	Q/R	cAg/cGg	0.43	0.083	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2260	1972	658	T/P	Act/Cct	0.38	0.775	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2260	1972	658	T/A	Act/Gct	1	0.028	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2263	1975	659	I/V	Ata/Gta	1	0.015	 	5.29E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2264	1976	659	I/T	aTa/aCa	0.09	0.297	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2267	1979	660	T/I	aCc/aTc	0.33	0.093	0.0005	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2268	1980	660	T	acC/acG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2273	1985	662	P/L	cCg/cTg	0.01	0.039	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2277	1989	663	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2280	1992	664	K	aaG/aaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+26/53	2280	1992	664	K/N	aaG/aaT	0.27	0	0.0032	0.00782803	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+26/53	2285	1997	666	G/D	gGc/gAc	0	1	 	 	not_conserve	conserve	not_conserve	not_conserve	conserve	conserve	Yes
+26/53	2290	2002	668	P/S	Cct/Tct	0.06	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2292	2004	668	P	ccT/ccA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2292	2004	668	P	ccT/ccG	 	 	 	4.91E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2293	2005	669	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	not_conserve	not_conserve	conserve	conserve	Yes
+26/53	2299	2011	671	P/T	Cca/Aca	0.05	0.603	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2305	2017	673	R/G	Aga/Gga	0.48	0.15	0.0003	0.00032113	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2307	2019	673	R/S	agA/agT	0.74	0.083	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+26/53	2311	2023	675	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+26/53	2321	2033	678	G/D	gGt/gAt	0	1	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+26/53	2329	2041	681	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+27/53	2343	2055	685	L	ctT/ctC	 	 	0.1499	0.120748997	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2359	2071	691	L	Ttg/Ctg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2365	2077	693	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+27/53	2368	2080	694	I/V	Ata/Gta	0.32	0.003	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+27/53	2370	2082	694	I	atA/atT	 	 	0.0003	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+27/53	2375	2087	696	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+27/53	2383	2095	699	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+27/53	2388	2100	700	E	gaA/gaG	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+27/53	2395	2107	703	I/V	Atc/Gtc	0.51	0.005	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2397	2109	703	I	atC/atA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2397	2109	703	I	atC/atT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2417	2129	710	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+27/53	2433	2145	715	K	aaA/aaG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+27/53	2434	2146	716	G/S	Ggc/Agc	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2436	2148	716	G	ggC/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2453	2165	722	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2454	2166	722	G	ggA/ggG	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2456	2168	723	P/R	cCt/cGt	0.17	0.219	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2460	2172	724	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2464	2176	726	A/T	Gca/Aca	0.63	0.001	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2467	2179	727	P/S	Cct/Tct	0.04	0.651	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2468	2180	727	P/R	cCt/cGt	0.01	0.925	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2470	2182	728	G/R	Ggg/Agg	0	0.988	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2471	2183	728	G/E	gGg/gAg	0	0.982	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2476	2188	730	P/S	Cct/Tct	0.06	0.998	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2483	2195	732	R/K	aGa/aAa	0.41	0.683	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2488	2200	734	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2494	2206	736	E/Q	Gaa/Caa	0.41	0.001	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+28/53	2500	2212	738	P/A	Cct/Gct	0.92	0.02	 	1.13E-05	not_conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+28/53	2503	2215	739	P/A	Cct/Gct	0.02	0.05	0.0034	0.000578035	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2504	2216	739	P/H	cCt/cAt	0	0.629	0.0008	0.000872719	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2508	2220	740	G	ggG/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2514	2226	742	P	ccC/ccT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2515	2227	743	G/S	Ggc/Agc	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2517	2229	743	G	ggC/ggT	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+28/53	2525	2237	746	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+28/53	2532	2244	748	K	aaG/aaA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2534	2246	749	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2547	2259	753	F/L	ttT/ttA	1	0.006	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2550	2262	754	A	gcA/gcG	 	 	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+29/53	2565	2277	759	P	ccT/ccG	 	 	 	1.13E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+29/53	2574	2286	762	P	ccA/ccC	 	 	 	3.78E-06	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+29/53	2574	2286	762	P	ccA/ccG	 	 	 	6.80E-05	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+29/53	2576	2288	763	G/E	gGa/gAa	0	1	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+29/53	2578	2290	764	L/F	Ctt/Ttt	0.62	0.001	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2583	2295	765	P	ccA/ccG	 	 	 	4.16E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+29/53	2586	2298	766	G	ggT/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2594	2306	769	G/E	gGa/gAa	0	1	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	Yes
+29/53	2596	2308	770	A/P	Gca/Cca	0.21	0.039	 	 	conserve	conserve	conserve	conserve	not_conserve	not_conserve	No
+29/53	2599	2311	771	L/V	Ctt/Gtt	0.08	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2602	2314	772	G/S	Ggt/Agt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2603	2315	772	G/A	gGt/gCt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2603	2315	772	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2605	2317	773	P/S	Cca/Tca	0.31	0.999	 	5.29E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2617	2329	777	R/C	Cgt/Tgt	0.2	0.533	 	3.78E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+29/53	2618	2330	777	R/H	cGt/cAt	0.58	0.459	0.0005	7.56E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+29/53	2618	2330	777	R/P	cGt/cCt	0.41	0	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+29/53	2620	2332	778	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2620	2332	778	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2621	2333	778	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2626	2338	780	P/A	Cca/Gca	0	0.117	 	4.53E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2636	2348	783	P/L	cCg/cTg	0.01	0.104	 	1.89E-05	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+29/53	2637	2349	783	P	ccG/ccA	 	 	0.1489	0.120567001	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+29/53	2647	2359	787	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2647	2359	787	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2650	2362	788	R/C	Cgc/Tgc	0.21	0.502	 	3.02E-05	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+29/53	2651	2363	788	R/H	cGc/cAc	0.62	0.003	 	0.000124674	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+29/53	2659	2371	791	L/V	Tta/Gta	0.51	0.066	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+29/53	2661	2373	791	L	ttA/ttG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+29/53	2666	2378	793	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2666	2378	793	G/A	gGg/gCg	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2667	2379	793	G	ggG/ggA	 	 	0.0005	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2674	2386	796	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2674	2386	796	G/R	Gga/Cga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2675	2387	796	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2680	2392	798	K/E	Aaa/Gaa	0.01	0.994	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+29/53	2680	2392	798	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+29/53	2682	2394	798	K/N	aaA/aaT	0.01	0.997	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2684	2396	799	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2688	2400	800	D	gaT/gaC	 	 	 	0.000185122	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+30/53	2691	2403	801	V	gtT/gtA	 	 	 	7.56E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+30/53	2691	2403	801	V	gtT/gtC	 	 	 	2.27E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+30/53	2702	2414	805	G/E	gGa/gAa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2703	2415	805	G	ggA/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2709	2421	807	P	ccT/ccC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2710	2422	808	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2711	2423	808	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2714	2426	809	P/L	cCa/cTa	0.92	0	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2718	2430	810	M/I	atG/atT	0.2	0	 	9.82E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2719	2431	811	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2720	2432	811	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2722	2434	812	P/S	Cct/Tct	0.58	0.025	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2728	2440	814	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2729	2441	814	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2730	2442	814	G	ggG/ggA	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2737	2449	817	G/R	Gga/Aga	0.03	1	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2752	2464	822	G/R	Gga/Aga	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2753	2465	822	G/V	gGa/gTa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2754	2466	822	G	ggA/ggG	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2761	2473	825	G/R	Gga/Aga	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+30/53	2769	2481	827	P	ccA/ccG	 	 	 	 	not_conserve	conserve	conserve	not_conserve	conserve	conserve	No
+30/53	2774	2486	829	I/N	aTt/aAt	0.43	0.031	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+30/53	2788	2500	834	G/R	Ggt/Cgt	0	1	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+30/53	2789	2501	834	G/V	gGt/gTt	0.02	1	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+30/53	2793	2505	835	Q	caA/caG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2799	2511	837	G	ggT/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2799	2511	837	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2801	2513	838	L/*	tTa/tGa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2804	2516	839	H/R	cAt/cGt	0.36	0.001	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2806	2518	840	G/*	Gga/Tga	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+31/53	2808	2520	840	G	ggA/ggG	 	 	 	7.56E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+31/53	2817	2529	843	G	ggA/ggG	 	 	 	4.53E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2821	2533	845	K/E	Aag/Gag	0	0.994	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+31/53	2825	2537	846	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2827	2539	847	D/N	Gat/Aat	0.31	0.018	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2832	2544	848	P	ccA/ccG	 	 	0.0003	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+31/53	2835	2547	849	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2836	2548	850	P/S	Cct/Tct	0.42	0.295	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+31/53	2849	2561	854	D/G	gAt/gGt	0.13	0.114	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2855	2567	856	P/L	cCa/cTa	0.03	0.067	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2859	2571	857	G	ggA/ggG	 	 	 	9.45E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2860	2572	858	P/T	Ccc/Acc	0.06	0.377	 	0.000128452	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2861	2573	858	P/R	cCc/cGc	0.05	0.4	0.0005	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2867	2579	860	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2868	2580	860	G	ggT/ggG	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2875	2587	863	G/S	Ggc/Agc	0	0.999	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+31/53	2879	2591	864	S/I	aGt/aTt	0.2	0.325	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2881	2593	865	P/A	Cca/Gca	0.09	0.164	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2883	2595	865	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2885	2597	866	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2886	2598	866	G	ggG/ggC	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2888	2600	867	I/T	aTc/aCc	0.13	0	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2889	2601	867	I	atC/atT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2892	2604	868	P	ccC/ccG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2892	2604	868	P	ccC/ccT	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2893	2605	869	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2894	2606	869	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2895	2607	869	G	ggA/ggG	 	 	0.0003	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2896	2608	870	A/T	Gca/Aca	0.6	0	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2902	2614	872	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2903	2615	872	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2903	2615	872	G/A	gGt/gCt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2912	2624	875	G/E	gGa/gAa	0	1	 	 	not_conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2921	2633	878	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2928	2640	880	P	ccA/ccT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2930	2642	881	G/V	gGg/gTg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2931	2643	881	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2941	2653	885	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2945	2657	886	A/G	gCa/gGa	0.22	0.116	 	1.89E-05	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+31/53	2946	2658	886	A	gcA/gcC	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+31/53	2947	2659	887	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2948	2660	887	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2948	2660	887	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2954	2666	889	S/C	tCt/tGt	0.01	0.386	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2955	2667	889	S	tcT/tcC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+31/53	2956	2668	890	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+31/53	2965	2677	893	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	2966	2678	893	G/A	gGt/gCt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	2967	2679	893	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	2969	2681	894	T/I	aCc/aTc	0.26	0	 	4.16E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	2974	2686	896	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	2980	2692	898	M/V	Atg/Gtg	0.03	0.011	 	0.00015112	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	2983	2695	899	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	2984	2696	899	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	2986	2698	900	M/L	Atg/Ttg	0.24	0.003	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+32/53	2988	2700	900	M/I	atG/atA	0.48	0	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+32/53	3001	2713	905	G/S	Ggc/Agc	0	1	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3001	2713	905	G/R	Ggc/Cgc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	3004	2716	906	P/T	Cca/Aca	0.57	0.382	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3005	2717	906	P/R	cCa/cGa	0.52	0.748	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3006	2718	906	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3010	2722	908	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	3010	2722	908	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	3011	2723	908	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	3026	2738	913	P/R	cCt/cGt	0.2	0.962	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3029	2741	914	G/D	gGc/gAc	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+32/53	3035	2747	916	S/N	aGt/aAt	0.08	0.003	 	7.56E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+32/53	3039	2751	917	G	ggT/ggA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3039	2751	917	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+32/53	3040	2752	918	V/I	Gta/Ata	0.65	0	 	7.56E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+32/53	3042	2754	918	V	gtA/gtG	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+32/53	3045	2757	919	P	ccT/ccC	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+32/53	3052	2764	922	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3065	2777	926	G/V	gGc/gTc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3069	2781	927	L/F	ttG/ttT	1	0.001	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3074	2786	929	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3081	2793	931	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3082	2794	932	G/R	Gga/Aga	0	0.683	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3085	2797	933	L/F	Ctt/Ttt	0.73	0.001	0.0003	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3090	2802	934	P	ccT/ccC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3092	2804	935	G/D	gGc/gAc	0	0.787	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3108	2820	940	K	aaA/aaG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3109	2821	941	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3109	2821	941	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3111	2823	941	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3117	2829	943	K	aaA/aaG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3121	2833	945	E/*	Gag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3137	2849	950	G/A	gGc/gCc	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3138	2850	950	G	ggC/ggT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3141	2853	951	P	ccT/ccC	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3146	2858	953	G/V	gGa/gTa	0	0.99	0.0079	0.00146209	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3148	2860	954	P/T	Cca/Aca	0.53	0.003	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3153	2865	955	M/I	atG/atA	0.16	0	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+33/53	3170	2882	961	G/V	gGc/gTc	0.15	0.006	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3171	2883	961	G	ggC/ggT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3174	2886	962	S	tcA/tcG	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3193	2905	969	P/S	Cct/Tct	0.75	0.964	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3194	2906	969	P/H	cCt/cAt	0.12	0.982	 	3.40E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+33/53	3196	2908	970	G/S	Ggc/Agc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+33/53	3204	2916	972	P	ccA/ccG	 	 	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+33/53	3205	2917	973	G/S	Ggt/Agt	0.02	0.999	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3209	2921	974	I/T	aTa/aCa	0.61	0.009	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3214	2926	976	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+34/53	3215	2927	976	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+34/53	3236	2948	983	Y/C	tAt/tGt	0.18	0.416	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3237	2949	983	Y/*	taT/taA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+34/53	3238	2950	984	Q/*	Cag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+34/53	3245	2957	986	L/*	tTg/tAg	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+34/53	3251	2963	988	G/E	gGa/gAa	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+34/53	3262	2974	992	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	Yes
+34/53	3267	2979	993	P	ccT/ccG	 	 	0.0003	0.000196456	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3270	2982	994	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3275	2987	996	S/N	aGt/aAt	0.19	0.014	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3280	2992	998	Q/K	Caa/Aaa	0.29	0.003	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+34/53	3280	2992	998	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	Yes
+34/53	3287	2999	1000	G/V	gGa/gTa	0	0.397	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3288	3000	1000	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3289	3001	1001	L	Tta/Cta	 	 	 	4.91E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3291	3003	1001	L	ttA/ttG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+34/53	3300	3012	1004	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3305	3017	1006	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3307	3019	1007	P/S	Ccc/Tcc	0.11	0.085	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+35/53	3310	3022	1008	K/E	Aaa/Gaa	0.07	0.03	 	2.64E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+35/53	3311	3023	1008	K/R	aAa/aGa	0.02	0.38	0.0005	0.000385356	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+35/53	3317	3029	1010	N/S	aAc/aGc	0.1	0.003	0.0074	0.000313574	conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3323	3035	1012	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3331	3043	1015	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3340	3052	1018	G/C	Ggt/Tgt	0	0.994	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3343	3055	1019	L/V	Ctt/Gtt	0.6	0	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3355	3067	1023	P/S	Cct/Tct	0	0.244	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3367	3079	1027	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3368	3080	1027	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3372	3084	1028	T	acC/acT	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+35/53	3373	3085	1029	I/F	Atc/Ttc	0.06	0.023	 	 	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3376	3088	1030	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+35/53	3383	3095	1032	M/T	aTg/aCg	0.03	0.654	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+35/53	3394	3106	1036	G/R	Ggg/Cgg	0	0.995	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3395	3107	1036	G/E	gGg/gAg	0	0.993	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3402	3114	1038	Q	caG/caA	 	 	 	7.56E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3404	3116	1039	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3405	3117	1039	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3406	3118	1040	V/M	Gtg/Atg	0.13	0.001	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3423	3135	1045	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3429	3141	1047	S	tcT/tcC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+36/53	3436	3148	1050	P/A	Cct/Gct	0.11	0.006	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+36/53	3436	3148	1050	P/S	Cct/Tct	0.06	0.055	0.0011	0.00146964	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+36/53	3437	3149	1050	P/H	cCt/cAt	0	0.8	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+36/53	3439	3151	1051	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3440	3152	1051	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3440	3152	1051	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3443	3155	1052	Q/P	cAa/cCa	0.23	0.563	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3450	3162	1054	G	ggC/ggT	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3458	3170	1057	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3464	3176	1059	P/L	cCt/cTt	0.11	0.006	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+36/53	3466	3178	1060	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3469	3181	1061	Q/*	Cag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3477	3189	1063	G	ggC/ggA	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3477	3189	1063	G	ggC/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3477	3189	1063	G	ggC/ggT	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3484	3196	1066	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3485	3197	1066	G/D	gGt/gAt	0.03	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3485	3197	1066	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3494	3206	1069	G/V	gGt/gTt	0	0.993	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3496	3208	1070	I/V	Att/Gtt	0.37	0	0.0003	1.13E-05	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+36/53	3498	3210	1070	I	atT/atA	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+36/53	3503	3215	1072	S/N	aGc/aAc	0.02	0.014	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3508	3220	1074	G/S	Ggt/Agt	0.04	0.067	 	3.78E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+36/53	3514	3226	1076	P/S	Cca/Tca	0.01	0.998	 	7.56E-06	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+36/53	3520	3232	1078	L/F	Ctt/Ttt	0.67	0.001	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+36/53	3525	3237	1079	P	ccT/ccG	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+36/53	3526	3238	1080	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+36/53	3532	3244	1082	K/*	Aag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3539	3251	1084	E/A	gAg/gCg	0.05	0.35	 	0.000181344	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3540	3252	1084	E	gaG/gaA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3544	3256	1086	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3545	3257	1086	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3550	3262	1088	P/S	Cct/Tct	0.09	0.359	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3551	3263	1088	P/L	cCt/cTt	0.02	0.776	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3555	3267	1089	G	ggA/ggG	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3556	3268	1090	Y/H	Tac/Cac	0.25	0.003	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3558	3270	1090	Y/*	taC/taA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3568	3280	1094	P/T	Cct/Act	0.01	0.998	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+37/53	3568	3280	1094	P/S	Cct/Tct	0.09	0.998	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+37/53	3573	3285	1095	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3578	3290	1097	K/T	aAa/aCa	0	0.602	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+37/53	3581	3293	1098	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3584	3296	1099	S/F	tCt/tTt	0.05	0.07	 	0.0001889	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3593	3305	1102	D/V	gAt/gTt	0.44	0	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+37/53	3598	3310	1104	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3598	3310	1104	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3599	3311	1104	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3600	3312	1104	G	ggT/ggC	 	 	 	0.00035891	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3602	3314	1105	L/*	tTg/tAg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3603	3315	1105	L	ttG/ttA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3605	3317	1106	P/R	cCc/cGc	0	0.999	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3606	3318	1106	P	ccC/ccT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3607	3319	1107	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3607	3319	1107	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3621	3333	1111	T	acC/acG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3627	3339	1113	G	ggA/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3634	3346	1116	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3635	3347	1116	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3635	3347	1116	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3644	3356	1119	G/A	gGc/gCc	0	0.998	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3645	3357	1119	G	ggC/ggA	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+37/53	3661	3373	1125	G/R	Gga/Aga	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+37/53	3661	3373	1125	G/R	Gga/Cga	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3666	3378	1126	T	acC/acT	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+38/53	3672	3384	1128	G	ggC/ggA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3674	3386	1129	P/L	cCt/cTt	0.65	0	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3678	3390	1130	P	ccT/ccC	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+38/53	3691	3403	1135	I/V	Att/Gtt	0.29	0.014	 	4.53E-05	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3697	3409	1137	G/C	Ggc/Tgc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3698	3410	1137	G/D	gGc/gAc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3699	3411	1137	G	ggC/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3711	3423	1141	N	aaC/aaT	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+38/53	3714	3426	1142	P	ccC/ccT	 	 	0.0003	0.00039669	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3715	3427	1143	G/S	Ggc/Agc	0.02	0.999	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3715	3427	1143	G/C	Ggc/Tgc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3716	3428	1143	G/D	gGc/gAc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3717	3429	1143	G	ggC/ggA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3723	3435	1145	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3724	3436	1146	G/R	Gga/Aga	0	0.204	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3725	3437	1146	G/E	gGa/gAa	0	0.88	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+38/53	3733	3445	1149	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+38/53	3742	3454	1152	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3745	3457	1153	G/R	Ggt/Cgt	0.51	0.044	 	5.29E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3756	3468	1156	H	caT/caC	 	 	0.0013	 	conserve	not_conserve	not_conserve	not_conserve	not_conserve	not_conserve	No
+39/53	3761	3473	1158	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3763	3475	1159	Q/*	Caa/Taa	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+39/53	3767	3479	1160	P/R	cCa/cGa	0.09	0.408	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3769	3481	1161	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3769	3481	1161	G/R	Ggg/Cgg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3770	3482	1161	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3776	3488	1163	P/L	cCa/cTa	0.04	0.316	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3778	3490	1164	G/C	Ggc/Tgc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3779	3491	1164	G/D	gGc/gAc	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3780	3492	1164	G	ggC/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3780	3492	1164	G	ggC/ggT	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3781	3493	1165	E/K	Gaa/Aaa	0.01	0.79	 	2.27E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+39/53	3784	3496	1166	K/E	Aaa/Gaa	0	0.99	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+39/53	3786	3498	1166	K	aaA/aaG	 	 	 	3.78E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+39/53	3791	3503	1168	K/I	aAa/aTa	0.02	0.055	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3795	3507	1169	P	ccC/ccT	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3796	3508	1170	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3796	3508	1170	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3796	3508	1170	G/C	Ggt/Tgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3797	3509	1170	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3799	3511	1171	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3801	3513	1171	Q	caA/caG	 	 	0.178	0.155374005	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3807	3519	1173	G	ggT/ggG	 	 	0.0286	0.034938999	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3815	3527	1176	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3818	3530	1177	P/R	cCa/cGa	0.37	0.999	 	 	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3823	3535	1179	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3824	3536	1179	G/V	gGa/gTa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+39/53	3838	3550	1184	P/S	Cca/Tca	0.02	0.998	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+39/53	3841	3553	1185	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+40/53	3842	3554	1185	G/V	gGt/gTt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+40/53	3844	3556	1186	Q/*	Caa/Taa	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+40/53	3846	3558	1186	Q	caA/caG	 	 	 	3.78E-06	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+40/53	3858	3570	1190	G	ggA/ggG	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3868	3580	1194	P/T	Ccc/Acc	0.42	0.675	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3869	3581	1194	P/L	cCc/cTc	0.66	0.747	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3870	3582	1194	P	ccC/ccT	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3874	3586	1196	G/R	Gga/Aga	0	0.912	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+40/53	3875	3587	1196	G/V	gGa/gTa	0	0.952	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+40/53	3876	3588	1196	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3888	3600	1200	L	ctT/ctG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+40/53	3892	3604	1202	G/C	Ggc/Tgc	0	0.975	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3893	3605	1202	G/D	gGc/gAc	0	0.912	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3893	3605	1202	G/V	gGc/gTc	0	0.934	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3897	3609	1203	Q	caA/caG	 	 	0.0003	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3901	3613	1205	G/S	Ggt/Agt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3902	3614	1205	G/D	gGt/gAt	0.01	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3902	3614	1205	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3905	3617	1206	D/G	gAt/gGt	0.02	0.783	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3906	3618	1206	D	gaT/gaC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3907	3619	1207	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3909	3621	1207	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3911	3623	1208	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3916	3628	1210	P/A	Cct/Gct	0.08	0.572	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3920	3632	1211	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3926	3638	1213	P/L	cCa/cTa	0	0.436	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3928	3640	1214	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3935	3647	1216	P/L	cCt/cTt	0.01	0.898	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3947	3659	1220	G/D	gGt/gAt	0.01	0.817	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3947	3659	1220	G/V	gGt/gTt	0	0.863	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3952	3664	1222	K/E	Aag/Gag	0.01	0.994	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3956	3668	1223	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3957	3669	1223	G	ggC/ggT	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3958	3670	1224	E/*	Gaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3966	3678	1226	G	ggC/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3972	3684	1228	H	caC/caT	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	3973	3685	1229	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3974	3686	1229	G/A	gGt/gCt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3974	3686	1229	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3991	3703	1235	G/C	Ggt/Tgt	0	0.135	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	3992	3704	1235	G/V	gGt/gTt	0	0.817	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4000	3712	1238	G/S	Ggc/Agc	0.01	0.142	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4004	3716	1239	P/L	cCt/cTt	0.68	0.009	 	3.02E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+41/53	4009	3721	1241	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4009	3721	1241	G/C	Ggt/Tgt	0.03	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4010	3722	1241	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4013	3725	1242	S/F	tCt/tTt	0.72	0.001	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+41/53	4016	3728	1243	P/L	cCg/cTg	0	0.766	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4018	3730	1244	G/S	Ggt/Agt	0.03	0.142	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4018	3730	1244	G/R	Ggt/Cgt	0	0.895	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4019	3731	1244	G/D	gGt/gAt	0	0.817	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4020	3732	1244	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4024	3736	1246	A/S	Gct/Tct	0.63	0.001	0.0003	0.00011334	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4027	3739	1247	L/V	Ctg/Gtg	0.73	0.085	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4036	3748	1250	P/S	Cct/Tct	0.02	0.998	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4043	3755	1252	G/D	gGc/gAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4057	3769	1257	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4058	3770	1257	Q/R	cAa/cGa	0.43	0	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4059	3771	1257	Q	caA/caG	 	 	0.0005	0.000306018	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4059	3771	1257	Q/H	caA/caT	0.03	0	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4060	3772	1258	G/S	Ggt/Agt	0	0.999	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+41/53	4069	3781	1261	G/R	Ggg/Agg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4070	3782	1261	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+41/53	4073	3785	1262	R/K	aGa/aAa	0.73	0	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+41/53	4075	3787	1263	P/S	Cca/Tca	0.09	0.051	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+42/53	4079	3791	1264	G/V	gGt/gTt	0	1	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+42/53	4084	3796	1266	T/A	Aca/Gca	0.2	0	 	7.18E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4097	3809	1270	G/D	gGt/gAt	0.01	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4097	3809	1270	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4098	3810	1270	G	ggT/ggA	 	 	0.0003	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4105	3817	1273	G/S	Ggt/Agt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4107	3819	1273	G	ggT/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4108	3820	1274	P/T	Cca/Aca	0.29	0.003	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4115	3827	1276	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4115	3827	1276	G/V	gGt/gTt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4117	3829	1277	P/T	Cct/Act	0.69	0.747	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+44/53	4117	3829	1277	P/S	Cct/Tct	0.68	0.558	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+44/53	4120	3832	1278	P/S	Cca/Tca	0.13	0.009	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4125	3837	1279	G	ggT/ggC	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4126	3838	1280	L/F	Ctc/Ttc	0.56	0	 	6.42E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4138	3850	1284	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4166	3878	1293	P/L	cCa/cTa	0.12	0.951	 	5.29E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4171	3883	1295	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	Yes
+44/53	4175	3887	1296	P/L	cCt/cTt	0	0.656	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+44/53	4179	3891	1297	G	ggG/ggT	 	 	 	 	conserve	conserve	conserve	not_conserve	conserve	conserve	No
+44/53	4186	3898	1300	G/S	Ggc/Agc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4191	3903	1301	L	ttG/ttA	 	 	 	3.78E-06	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+44/53	4194	3906	1302	P	ccT/ccC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4195	3907	1303	G/C	Ggt/Tgt	0	1	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4210	3922	1308	Q/*	Caa/Taa	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	Yes
+44/53	4211	3923	1308	Q/R	cAa/cGa	0.66	0.211	 	0.000105784	conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+44/53	4215	3927	1309	G	ggA/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4219	3931	1311	P/S	Cca/Tca	0.2	0.034	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+44/53	4225	3937	1313	L/I	Ctc/Atc	0.29	0.019	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+44/53	4227	3939	1313	L	ctC/ctT	 	 	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+44/53	4228	3940	1314	Q/*	Cag/Tag	 	 	 	 	not_conserve	conserve	conserve	conserve	conserve	conserve	Yes
+44/53	4230	3942	1314	Q	caG/caA	 	 	 	 	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4232	3944	1315	G/V	gGt/gTt	0	1	 	 	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+45/53	4243	3955	1319	R/W	Cgg/Tgg	0.19	0.736	 	4.16E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4244	3956	1319	R/Q	cGg/cAg	0.29	0.007	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4245	3957	1319	R	cgG/cgT	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4246	3958	1320	P/S	Ccg/Tcg	0.03	0.135	0.0005	0.000234236	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+45/53	4247	3959	1320	P/L	cCg/cTg	0	0.707	 	2.64E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+45/53	4248	3960	1320	P	ccG/ccA	 	 	 	0.000124674	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+45/53	4252	3964	1322	L/V	Ctc/Gtc	0.38	0.722	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4255	3967	1323	N/D	Aat/Gat	0.7	0.275	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4256	3968	1323	N/S	aAt/aGt	0.75	0.199	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4257	3969	1323	N/K	aaT/aaA	0.94	0.275	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4258	3970	1324	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+45/53	4261	3973	1325	M/V	Atg/Gtg	0.32	0.157	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+45/53	4277	3989	1330	G/A	gGt/gCt	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+45/53	4281	3993	1331	L	ctC/ctT	 	 	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4286	3998	1333	G/A	gGt/gCt	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+45/53	4291	4003	1335	P/S	Cca/Tca	0.02	0.412	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4304	4016	1339	G/A	gGc/gCc	0.07	0.998	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4306	4018	1340	M/V	Atg/Gtg	0.28	0.023	 	3.78E-06	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4309	4021	1341	K/*	Aaa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+46/53	4316	4028	1343	P/L	cCc/cTc	0.93	0.003	 	 	conserve	conserve	not_conserve	conserve	conserve	conserve	No
+46/53	4323	4035	1345	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4326	4038	1346	V	gtA/gtT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+46/53	4330	4042	1348	G/R	Gga/Aga	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+46/53	4355	4067	1356	P/L	cCg/cTg	0.22	0.155	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4356	4068	1356	P	ccG/ccA	 	 	 	5.29E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4356	4068	1356	P	ccG/ccT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4358	4070	1357	G/E	gGa/gAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+46/53	4359	4071	1357	G	ggA/ggG	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4359	4071	1357	G	ggA/ggT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4360	4072	1358	L/I	Ctt/Att	0.4	0.062	0.0003	0.000124674	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4363	4075	1359	I/V	Att/Gtt	0.06	0	0.0003	7.18E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+46/53	4364	4076	1359	I/T	aTt/aCt	0.16	0	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	not_conserve	No
+46/53	4367	4079	1360	G/D	gGt/gAt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+46/53	4372	4084	1362	P/A	Cca/Gca	0.15	0.007	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+46/53	4375	4087	1363	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4376	4088	1363	G/A	gGt/gCt	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+47/53	4377	4089	1363	G	ggT/ggA	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4377	4089	1363	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4377	4089	1363	G	ggT/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4405	4117	1373	Q/K	Cag/Aag	0.4	0.003	0.0003	0.000196456	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4413	4125	1375	I	atC/atT	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4417	4129	1377	I/L	Att/Ctt	0.15	0.015	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4429	4141	1381	A/T	Gct/Act	0.51	0.009	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+47/53	4433	4145	1382	G/A	gGt/gCt	0.01	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+47/53	4436	4148	1383	P/H	cCt/cAt	0.54	0.799	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+47/53	4453	4165	1389	Q/*	Cag/Tag	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	Yes
+47/53	4463	4175	1392	L/P	cTa/cCa	0.36	0	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4468	4180	1394	G/C	Ggt/Tgt	0	1	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4473	4185	1395	L	ctA/ctC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4485	4197	1399	Q	caA/caG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4488	4200	1400	G	ggA/ggG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4495	4207	1403	G/S	Ggc/Agc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+47/53	4497	4209	1403	G	ggC/ggT	 	 	 	0.000109562	conserve	conserve	conserve	conserve	conserve	conserve	No
+47/53	4501	4213	1405	P/A	Cca/Gca	0.35	0.391	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4511	4223	1408	T/S	aCt/aGt	0.2	0.003	0.0024	0.00283728	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4520	4232	1411	P/L	cCa/cTa	0.23	0.796	 	 	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+48/53	4527	4239	1413	D/E	gaT/gaA	1	0.84	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4533	4245	1415	G	ggA/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4534	4246	1416	R/C	Cgc/Tgc	0.06	0.947	0.0003	5.67E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+48/53	4535	4247	1416	R/H	cGc/cAc	0.15	0.12	 	1.89E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+48/53	4535	4247	1416	R/L	cGc/cTc	0.32	0.668	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+48/53	4543	4255	1419	L/F	Ctc/Ttc	0.69	0.092	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4546	4258	1420	P/S	Cct/Tct	0.01	0.982	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4551	4263	1421	G	ggC/ggT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4554	4266	1422	F	ttT/ttC	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4555	4267	1423	D/N	Gat/Aat	0.22	0.068	 	4.91E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4569	4281	1427	G	ggG/ggA	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4570	4282	1428	R/S	Cgc/Agc	0.23	0.14	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+48/53	4570	4282	1428	R/C	Cgc/Tgc	0.07	0.133	 	0.000430693	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+48/53	4571	4283	1428	R/H	cGc/cAc	0.28	0.097	 	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+48/53	4580	4292	1431	D/V	gAc/gTc	0	0.395	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4581	4293	1431	D	gaC/gaT	 	 	0.1274	0.111243002	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4587	4299	1433	G	ggT/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4597	4309	1437	Q/E	Cag/Gag	0.11	0.471	 	0.000120896	conserve	conserve	conserve	conserve	conserve	conserve	No
+48/53	4597	4309	1437	Q/*	Cag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+48/53	4603	4315	1439	G/R	Ggt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4604	4316	1439	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4610	4322	1441	R/H	cGt/cAt	0.01	0.993	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4613	4325	1442	G/D	gGt/gAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4614	4326	1442	G	ggT/ggA	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4618	4330	1444	D/N	Gat/Aat	0.13	0.113	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4624	4336	1446	P/T	Ccc/Acc	0.01	0.217	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4625	4337	1446	P/H	cCc/cAc	0	0.254	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4626	4338	1446	P	ccC/ccT	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4629	4341	1447	P	ccT/ccC	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4630	4342	1448	G/R	Ggt/Cgt	0.02	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4632	4344	1448	G	ggT/ggC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4633	4345	1449	P/S	Cca/Tca	0.16	0.471	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4641	4353	1451	G	ggA/ggT	 	 	0.0005	0.000328686	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4645	4357	1453	Q/K	Caa/Aaa	0.05	0.587	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4648	4360	1454	G/S	Ggt/Agt	0.01	0.994	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4656	4368	1456	P	ccA/ccC	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+49/53	4662	4374	1458	P	ccC/ccT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4670	4382	1461	T/N	aCc/aAc	0.14	0.699	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4673	4385	1462	S/Y	tCc/tAc	0.05	0.867	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+49/53	4676	4388	1463	S/C	tCt/tGt	0.02	0.994	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+49/53	4685	4397	1466	H/L	cAt/cTt	0	0.844	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4689	4401	1467	G	ggA/ggT	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4696	4408	1470	I/F	Att/Ttt	0.19	0.29	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+49/53	4702	4414	1472	R/C	Cgc/Tgc	0	0.981	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4718	4430	1477	T/M	aCg/aTg	0.07	0.935	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4719	4431	1477	T	acG/acA	 	 	 	7.93E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4729	4441	1481	Q/*	Caa/Taa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4731	4443	1481	Q	caA/caG	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4733	4445	1482	C/Y	tGc/tAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4734	4446	1482	C/W	tgC/tgG	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4737	4449	1483	P	ccA/ccG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4744	4456	1486	T/A	Aca/Gca	0.07	0.783	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4746	4458	1486	T	acA/acG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4750	4462	1488	Q/*	Cag/Tag	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4758	4470	1490	Y/*	taT/taG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+49/53	4762	4474	1492	G/S	Ggc/Agc	0	1	 	 	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+49/53	4763	4475	1492	G/A	gGc/gCc	0	1	 	 	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+49/53	4763	4475	1492	G/V	gGc/gTc	0	1	 	 	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	Yes
+49/53	4764	4476	1492	G	ggC/ggT	 	 	 	7.93E-05	not_conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+49/53	4773	4485	1495	L	ctC/ctA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4788	4500	1500	G	ggA/ggG	 	 	0.0117	0.0098757	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4796	4508	1503	R/T	aGa/aCa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4800	4512	1504	A	gcC/gcT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4803	4515	1505	H	caC/caT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4804	4516	1506	G/S	Ggt/Agt	0	1	 	1.89E-05	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4804	4516	1506	G/C	Ggt/Tgt	0	1	 	1.89E-05	not_conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4813	4525	1509	L	Ttg/Ctg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+49/53	4816	4528	1510	G/R	Ggg/Cgg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+50/53	4820	4532	1511	T/M	aCg/aTg	0	0.996	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4821	4533	1511	T	acG/acA	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4827	4539	1513	G	ggC/ggA	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4832	4544	1515	C/Y	tGc/tAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4837	4549	1517	R/C	Cgt/Tgt	0	0.987	 	8.69E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+50/53	4838	4550	1517	R/H	cGt/cAt	0.06	0.248	 	3.78E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+50/53	4840	4552	1518	R/C	Cgc/Tgc	0	0.851	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+50/53	4841	4553	1518	R/H	cGc/cAc	0.01	0.7	 	2.27E-05	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+50/53	4855	4567	1523	P/T	Cct/Act	0	1	 	7.93E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4856	4568	1523	P/R	cCt/cGt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4858	4570	1524	F/V	Ttc/Gtc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4863	4575	1525	M/I	atG/atC	0.03	0.91	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4866	4578	1526	F	ttC/ttT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4874	4586	1529	I/T	aTc/aCc	0.07	0.515	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4875	4587	1529	I	atC/atT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4880	4592	1531	N/S	aAt/aGt	0.03	0.355	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4881	4593	1531	N/K	aaT/aaA	0	0.972	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4887	4599	1533	C	tgC/tgT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4890	4602	1534	N	aaC/aaT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4892	4604	1535	F/C	tTt/tGt	0	0.999	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4905	4617	1539	N	aaT/aaC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4917	4629	1543	Y	taC/taT	 	 	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4919	4631	1544	W/*	tGg/tAg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+50/53	4919	4631	1544	W/S	tGg/tCg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+50/53	4920	4632	1544	W/C	tgG/tgC	0	0.988	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4923	4635	1545	L	ctC/ctG	 	 	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4929	4641	1547	T	acC/acA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4931	4643	1548	P/L	cCa/cTa	0	0.981	 	0.000102006	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4940	4652	1551	M/T	aTg/aCg	0	0.912	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4945	4657	1553	M/V	Atg/Gtg	0.01	0.227	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+50/53	4947	4659	1553	M/I	atG/atA	0	0.625	 	 	conserve	conserve	conserve	conserve	conserve	not_conserve	No
+50/53	4956	4668	1556	Q	caA/caG	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4957	4669	1557	P/S	Ccc/Tcc	0	0.886	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4958	4670	1557	P/L	cCc/cTc	0	0.934	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4967	4679	1560	G/D	gGc/gAc	0	0.998	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4980	4692	1564	Q	caG/caA	 	 	 	3.02E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4981	4693	1565	P/A	Cca/Gca	0	0.94	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4990	4702	1568	S/R	Agt/Cgt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+50/53	4993	4705	1569	R/*	Cga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+50/53	4994	4706	1569	R/Q	cGa/cAa	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	4997	4709	1570	C/S	tGt/tCt	0	0.994	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	4997	4709	1570	C/F	tGt/tTt	0.02	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5014	4726	1576	P/A	Cca/Gca	0	0.296	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5014	4726	1576	P/S	Cca/Tca	0	0.686	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5020	4732	1578	V/M	Gtg/Atg	1	0.14	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5023	4735	1579	V/M	Gtg/Atg	0	0.999	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5025	4737	1579	V	gtG/gtA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5028	4740	1580	I	atC/atT	 	 	 	2.64E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5029	4741	1581	A/T	Gca/Aca	0	0.983	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5029	4741	1581	A/S	Gca/Tca	0	0.998	 	0.000166232	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5033	4745	1582	V/A	gTt/gCt	0	0.982	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5038	4750	1584	S/C	Agt/Tgt	0	0.999	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+51/53	5045	4757	1586	T/K	aCg/aAg	0	0.958	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+51/53	5045	4757	1586	T/M	aCg/aTg	0	0.997	 	1.13E-05	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+51/53	5046	4758	1586	T	acG/acA	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+51/53	5046	4758	1586	T	acG/acT	 	 	 	 	conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+51/53	5049	4761	1587	I	atC/atT	 	 	0.0003	4.91E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5057	4769	1590	P/H	cCc/cAc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5057	4769	1590	P/L	cCc/cTc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5075	4787	1596	W/*	tGg/tAg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5076	4788	1596	W/*	tgG/tgA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5077	4789	1597	D/N	Gat/Aat	0.57	0.859	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5092	4804	1602	G/S	Ggt/Agt	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5097	4809	1603	Y/*	taT/taG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5099	4811	1604	S/F	tCc/tTc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5104	4816	1606	M/L	Atg/Ctg	0.06	0.192	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+51/53	5109	4821	1607	M/I	atG/atA	0	0.989	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+51/53	5109	4821	1607	M/I	atG/atC	0	0.989	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5116	4828	1610	S/G	Agt/Ggt	0.08	0.405	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5119	4831	1611	A/T	Gca/Aca	0	0.996	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5124	4836	1612	G	ggG/ggA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5127	4839	1613	A	gcA/gcG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5130	4842	1614	E/D	gaA/gaC	0.01	0.625	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5135	4847	1616	S/*	tCa/tAa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5135	4847	1616	S/L	tCa/tTa	0	0.996	0.0005	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5136	4848	1616	S	tcA/tcG	 	 	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5138	4850	1617	G/D	gGt/gAt	0	0.999	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5150	4862	1621	A/V	gCc/gTc	0	0.669	0.0005	 	not_conserve	not_conserve	not_conserve	not_conserve	conserve	conserve	No
+52/53	5154	4866	1622	S	tcC/tcT	 	 	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5163	4875	1625	S	tcC/tcT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5164	4876	1626	C/S	Tgc/Agc	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5179	4891	1631	R/C	Cgt/Tgt	0	1	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5180	4892	1631	R/H	cGt/cAt	0	1	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5183	4895	1632	S/L	tCa/tTa	0.01	0.975	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5184	4896	1632	S	tcA/tcG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5186	4898	1633	A/V	gCt/gTt	0.11	0.22	 	0.000124674	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5190	4902	1634	P	ccC/ccT	 	 	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5196	4908	1636	I	atC/atT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5201	4913	1638	C/Y	tGt/tAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5203	4915	1639	H/Y	Cat/Tat	0	1	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5207	4919	1640	G/E	gGg/gAg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5216	4928	1643	T/N	aCc/aAc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5218	4930	1644	C/R	Tgt/Cgt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5219	4931	1644	C/Y	tGt/tAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5225	4937	1646	Y/C	tAc/tGc	0	1	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5226	4938	1646	Y/*	taC/taG	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5228	4940	1647	Y/C	tAt/tGt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5229	4941	1647	Y	taT/taC	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5240	4952	1651	Y/C	tAc/tGc	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5241	4953	1651	Y	taC/taT	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5248	4960	1654	W/R	Tgg/Cgg	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5250	4962	1654	W/*	tgG/tgA	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5252	4964	1655	L/R	cTg/cGg	0	0.999	 	7.56E-06	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+52/53	5260	4972	1658	V/I	Gta/Ata	1	0.29	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5260	4972	1658	V/L	Gta/Cta	0.14	0.29	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5265	4977	1659	D/E	gaT/gaA	1	0.234	 	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5267	4979	1660	V/A	gTg/gCg	0.79	0.078	 	3.78E-06	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5267	4979	1660	V/G	gTg/gGg	0.38	0.078	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5275	4987	1663	M/V	Atg/Gtg	0	0.994	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+52/53	5282	4994	1665	S/N	aGt/aAt	0.04	0.908	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5292	5004	1668	Q	caG/caA	 	 	 	3.78E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5294	5006	1669	S/*	tCa/tGa	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5300	5012	1671	T/M	aCg/aTg	0	1	 	9.45E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5301	5013	1671	T	acG/acA	 	 	 	2.27E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5304	5016	1672	L	ctG/ctA	 	 	 	6.80E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5311	5023	1675	G/*	Gga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5314	5026	1676	D/N	Gac/Aac	0.49	0.144	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5317	5029	1677	L/V	Ttg/Gtg	0	0.988	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5318	5030	1677	L/*	tTg/tAg	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5321	5033	1678	R/K	aGg/aAg	0.05	0.096	 	1.51E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5325	5037	1679	T	acA/acC	 	 	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5326	5038	1680	R/*	Cga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5335	5047	1683	R/*	Cga/Tga	 	 	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5336	5048	1683	R/Q	cGa/cAa	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5338	5050	1684	C/G	Tgt/Ggt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5339	5051	1684	C/Y	tGt/tAt	0	1	 	 	conserve	conserve	conserve	conserve	conserve	conserve	Yes
+53/53	5345	5057	1686	V/A	gTg/gCg	0	0.999	 	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5350	5062	1688	M/V	Atg/Gtg	0	0.9	0.0003	1.13E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5352	5064	1688	M/I	atG/atT	0.01	0.727	0.0003	 	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5357	5069	1690	R/T	aGg/aCg	0	0.954	 	3.78E-06	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+53/53	5358	5070	1690	R	agG/agA	 	 	 	 	conserve	not_conserve	not_conserve	conserve	conserve	conserve	No
+53/53	5359	5071	1691	T/A	Aca/Gca	0.01	0.853	 	1.89E-05	conserve	conserve	conserve	conserve	conserve	conserve	No
+53/53	5362	5074	1692	*/K	Taa/Aaa	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	not_conserve	not_conserve	No
+53/53	5363	5075	1692	*	tAa/tGa	 	 	 	 	not_conserve	not_conserve	not_conserve	not_conserve	not_conserve	not_conserve	No
+53/53	5415	-	-	-	-	 	 	 	0.000117118	-	-	-	-	-	-	No
+53/53	5417	-	-	-	-	 	 	 	6.04E-05	-	-	-	-	-	-	No
